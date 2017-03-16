@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "alexa-test-executor",
+    "name": "alexa-test",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "rxhmjdvfc5",
+    "module": "bin/bot"
+  }
+}
